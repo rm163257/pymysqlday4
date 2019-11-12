@@ -1,0 +1,16 @@
+2019-11-12 10:34:00,983 INFO [root] [app.py(<module>:66)] - hhh
+2019-11-12 10:58:07,240 INFO [root] [app.py(<module>:69)] - hhh
+2019-11-12 10:58:55,845 INFO [root] [app.py(<module>:69)] - hhh
+2019-11-12 10:59:07,170 INFO [root] [app.py(<module>:69)] - hhh
+2019-11-12 10:59:07,350 INFO [root] [test_IHRM_emp.py(test_add:31)] - 登录信息
+2019-11-12 10:59:07,350 INFO [root] [test_IHRM_emp.py(test_add:31)] - 登录信息
+2019-11-12 10:59:07,381 WARNING [root] [test_IHRM_emp.py(test_update:45)] - 修改信息
+2019-11-12 10:59:07,381 WARNING [root] [test_IHRM_emp.py(test_update:45)] - 修改信息
+2019-11-12 10:59:07,400 INFO [root] [test_IHRM_emp.py(test_get:55)] - 查看信息
+2019-11-12 10:59:07,400 INFO [root] [test_IHRM_emp.py(test_get:55)] - 查看信息
+2019-11-12 10:59:07,430 WARNING [root] [test_IHRM_emp.py(test_delete:65)] - 删除信息
+2019-11-12 10:59:07,430 WARNING [root] [test_IHRM_emp.py(test_delete:65)] - 删除信息
+2019-11-12 11:00:42,231 INFO [root] [test_IHRM_emp.py(test_add:31)] - 登录信息
+2019-11-12 11:00:42,250 WARNING [root] [test_IHRM_emp.py(test_update:45)] - 修改信息
+2019-11-12 11:00:42,277 INFO [root] [test_IHRM_emp.py(test_get:55)] - 查看信息
+2019-11-12 11:00:42,300 WARNING [root] [test_IHRM_emp.py(test_delete:65)] - 删除信息
